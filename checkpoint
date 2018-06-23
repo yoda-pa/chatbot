@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/manparvesh/Desktop/github_repos/chatbot1/model.tflearn"
+all_model_checkpoint_paths: "/home/manparvesh/Desktop/github_repos/chatbot1/model.tflearn"
